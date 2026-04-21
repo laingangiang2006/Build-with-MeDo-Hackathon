@@ -1,4 +1,10 @@
-# Build-with-MeDo-Hackathon
+# Build with MeDo Hackathon
+
+## Hackathon website and Project URL
+
+Build with MeDo Hackathon: https://medo.devpost.com
+
+Project URL: https://app-b3vvx3zq49oh.appmedo.com
 
 ## Text Description
 
