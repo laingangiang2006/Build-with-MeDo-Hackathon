@@ -1,14 +1,12 @@
 # Build with MeDo Hackathon
 
-## Hackathon website and Project URL
+## Project URL
 
-"Build with MeDo Hackathon" URL: https://medo.devpost.com
+**Devpost:** https://devpost.com/software/returnradar
 
-My submission URL: https://devpost.com/software/returnradar
+**MeDo:** https://app-b3vvx3zq49oh.appmedo.com
 
-My MeDo project URL: https://app-b3vvx3zq49oh.appmedo.com
-
-Demonstration video: https://youtu.be/Du3bhxjloNc
+**Demo:** https://youtu.be/Du3bhxjloNc
 
 ## Text Description
 
