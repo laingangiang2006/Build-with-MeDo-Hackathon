@@ -8,6 +8,8 @@ My submission URL: https://devpost.com/software/returnradar
 
 My MeDo project URL: https://app-b3vvx3zq49oh.appmedo.com
 
+Demonstration video: https://youtu.be/Du3bhxjloNc
+
 ## Text Description
 
 ### 1. The Problem:
