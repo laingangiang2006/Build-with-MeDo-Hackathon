@@ -6,7 +6,7 @@
 
 My submission URL: https://devpost.com/software/returnradar
 
-MeDo URL: https://app-b3vvx3zq49oh.appmedo.com
+My MeDo project URL: https://app-b3vvx3zq49oh.appmedo.com
 
 ## Text Description
 
